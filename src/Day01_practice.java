@@ -3,4 +3,5 @@ public class Day01_practice {
 
     //We are walking with baby steps now
     //At the end we can commit and push together
+    //It can be easier but more boring than Java
 }
